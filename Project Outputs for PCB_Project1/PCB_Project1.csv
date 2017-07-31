@@ -1,0 +1,11 @@
+Value,Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"1uF","Cap Semi","Capacitor (Semiconductor SIM Model)","C1, C3, C4, C5","1608[0603]","Cap Semi","4"
+"100uF","Cap Semi","Capacitor (Semiconductor SIM Model)","C2","C2512","Cap Semi","1"
+"","XC6206P332MR","","IC1","SOT-23","XC6206P332MR","1"
+"","SH-4.0","","P1","SH-4.0","SH-4.0","1"
+"10K","Res2","Resistor","R1, R2, R3, R4, R5","1608[0603]","Res2","5"
+"330","Res2","Resistor","R6","1608[0603]","Res2","1"
+"","SI2302","","U1, U3","SOT-23","IRLML2244TRPbF","2"
+"","APDS-9960","","U2","APDS-9960","APDS-9960","1"
+"","Via","","V1, V2","Via","Via","2"

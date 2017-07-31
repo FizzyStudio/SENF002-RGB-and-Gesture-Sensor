@@ -1,0 +1,11 @@
+Value	Designator	Comment	Description	Footprint	LibRef	Quantity
+
+"1uF"	"C1, C3, C4, C5"	"Cap Semi"	"Capacitor (Semiconductor SIM Model)"	"0402"	"Cap Semi"	"4"
+"100uF"	"C2"	"Cap Semi"	"Capacitor (Semiconductor SIM Model)"	"C2512"	"Cap Semi"	"1"
+""	"IC1"	"XC6206P332MR"	""	"SOT-23"	"XC6206P332MR"	"1"
+""	"P1"	"SH-4.0"	""	"SH-4.0"	"SH-4.0"	"1"
+"10K"	"R1, R2, R3, R4, R5"	"Res2"	"Resistor"	"0402"	"Res2"	"5"
+"330"	"R6"	"Res2"	"Resistor"	"0402"	"Res2"	"1"
+""	"U1, U3"	"SI2302"	""	"SOT-23"	"IRLML2244TRPbF"	"2"
+""	"U2"	"APDS-9960"	""	"APDS-9960"	"APDS-9960"	"1"
+""	"V1, V2"	"Via"	""	"Via"	"Via"	"2"

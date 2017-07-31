@@ -1,0 +1,9 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project1.PrjPCB|ReportField=ProjectFullPath~G:\svn\products\SENF002_颜色识别挥手传感器模块\PCB_Project1.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [PCB1.PcbDoc]|ReportField=TotalQuantity~18|ReportField=ReportTime~下午 10:31:34|ReportField=ReportDate~2017/4/17 星期一|ReportField=ReportDateTime~2017/4/17 星期一 下午 10:31:34|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~PCB1.PcbDoc|ReportField=DataSourceFullPath~G:\svn\products\SENF002_颜色识别挥手传感器模块\PCB1.PcbDoc
+Cap Semi|Capacitor (Semiconductor SIM Model)|C1, C3, C4, C5|0402|Cap Semi|4
+Cap Semi|Capacitor (Semiconductor SIM Model)|C2|C2512|Cap Semi|1
+XC6206P332MR||IC1|SOT-23|XC6206P332MR|1
+SH-4.0||P1|SH-4.0|SH-4.0|1
+Res2|Resistor|R1, R2, R3, R4, R5, R6|0402|Res2|6
+SI2302||U1, U3|SOT-23|IRLML2244TRPbF|2
+APDS-9960||U2|APDS-9960|APDS-9960|1
+Via||V1, V2|Via|Via|2

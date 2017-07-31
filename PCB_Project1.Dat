@@ -1,0 +1,10 @@
+Field=Value~String~Value~100|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project1.PrjPCB|ReportField=ProjectFullPath~G:\svn\products\SENF002_颜色识别挥手传感器模块\PCB_Project1.PrjPCB|ReportField=Title~Bill of Materials For Project [PCB_Project1.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~18|ReportField=ReportTime~下午 9:00:50|ReportField=ReportDate~2017/7/3 星期一|ReportField=ReportDateTime~2017/7/3 星期一 下午 9:00:50|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/7/3 星期一|ReportField=CurrentTime~下午 9:00:41|ReportField=Date~|ReportField=DocumentFullPathAndName~G:\svn\products\SENF002_颜色识别挥手传感器模块\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/7/3 星期一|ReportField=Organization~|ReportField=ProjectName~PCB_Project1.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project1.PrjPCB|ReportField=DataSourceFullPath~G:\svn\products\SENF002_颜色识别挥手传感器模块\PCB_Project1.PrjPCB
+|APDS-9960||U2|APDS-9960|APDS-9960
+100uF|Cap Semi|Capacitor (Semiconductor SIM Model)|C2|C2512|Cap Semi
+1uF|Cap Semi|Capacitor (Semiconductor SIM Model)|C1, C3, C4, C5|1608[0603]|Cap Semi
+10K|Res2|Resistor|R1, R2, R3, R4, R5|1608[0603]|Res2
+330|Res2|Resistor|R6|1608[0603]|Res2
+|SH-4.0||P1|SH-4.0|SH-4.0
+|SI2302||U1, U3|SOT-23|IRLML2244TRPbF
+|Via||V1, V2|Via|Via
+|XC6206P332MR||IC1|SOT-23|XC6206P332MR
